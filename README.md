@@ -11,8 +11,9 @@
 Looking to leverage the power of ChatGPT for your next project? Look no further than our GitHub repository! Our collection of meticulously crafted prompts offers the perfect starting point for getting the job done. With each prompt thoroughly tested and validated, you can be sure that you're getting the best guidance possible. These prompts will not only help you understand how to use *ChatGPT* more effectively but also build a strong foundation for writing your own prompts. And this is just the beginning - there are more exciting developments to come! Join us today and take your projects to the next level.
 
 
-#[Prompts]
 
-- ## Salary Raise 
-As a professional, I need your assistance in crafting a well-written email for negotiating a salary increase or a new salary for a job offer with my current or potential employer. I will provide you with all the necessary details, including my current salary, salary expectations, and relevant context. The email should be professional and persuasive, highlighting my qualifications and the value I bring to the company. I would appreciate your guidance on how to research salary data and market rates, as well as addressing any potential objections or counterarguments from my employer. Please ensure that the email is suitable for presenting to a manager or supervisor.
+
+#Prompts
+- ### Salary Raise 
+- As a professional, I need your assistance in crafting a well-written email for negotiating a salary increase or a new salary for a job offer with my current or potential employer. I will provide you with all the necessary details, including my current salary, salary expectations, and relevant context. The email should be professional and persuasive, highlighting my qualifications and the value I bring to the company. I would appreciate your guidance on how to research salary data and market rates, as well as addressing any potential objections or counterarguments from my employer. Please ensure that the email is suitable for presenting to a manager or supervisor.
 
