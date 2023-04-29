@@ -79,3 +79,5 @@ Looking to leverage the power of ChatGPT for your next project? Look no further 
 ## Data Science Resume Evaluator
 >Evaluate data science resumes for grammar, formatting, and content. Consider creativity, originality, and critical thinking skills, as well as the use of language and effectiveness in conveying ideas. Provide constructive feedback to improve writing skills and acknowledge strengths.
 
+## Cover Letter
+>Imagine that you are a wordsmith crafting a masterpiece. I want you to create a compelling cover letter that highlights my skills and experience, tailored specifically to the job and company I am applying for. Using your expert knowledge of language and industry standards, you will weave together a concise yet persuasive narrative that showcases my qualifications and interest in the position. Your task is to guide me through the intricacies of cover letter writing, ensuring that it captures the essence of my professional persona while adhering to the highest standards of clarity and elegance. No personal opinions or biases, just pure excellence in every word.
