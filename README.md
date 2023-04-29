@@ -15,13 +15,13 @@ Looking to leverage the power of ChatGPT for your next project? Look no further 
 
 # Simple Prompts
 ## Salary Raise 
-As a professional, I need your assistance in crafting a well-written email for negotiating a salary increase or a new salary for a job offer with my current or potential employer. I will provide you with all the necessary details, including my current salary, salary expectations, and relevant context. The email should be professional and persuasive, highlighting my qualifications and the value I bring to the company. I would appreciate your guidance on how to research salary data and market rates, as well as addressing any potential objections or counterarguments from my employer. Please ensure that the email is suitable for presenting to a manager or supervisor.
+> As a professional, I need your assistance in crafting a well-written email for negotiating a salary increase or a new salary for a job offer with my current or potential employer. I will provide you with all the necessary details, including my current salary, salary expectations, and relevant context. The email should be professional and persuasive, highlighting my qualifications and the value I bring to the company. I would appreciate your guidance on how to research salary data and market rates, as well as addressing any potential objections or counterarguments from my employer. Please ensure that the email is suitable for presenting to a manager or supervisor.
 
 ## Simple Knowledge Graph 
-Please provide me with a detailed guide on [Topic], consisting of [n] key points. As a professional, I would like you to connect these points in the best possible way to create a knowledge graph that presents the topic effectively. Please focus on the most important and relevant ideas that can help me understand. Additionally, I encourage you to think outside the box and provide creative solutions, even if they might be unconventional. Here is first "How to learn alegebra [5]"
+> Please provide me with a detailed guide on [Topic], consisting of [n] key points. As a professional, I would like you to connect these points in the best possible way to create a knowledge graph that presents the topic effectively. Please focus on the most important and relevant ideas that can help me understand. Additionally, I encourage you to think outside the box and provide creative solutions, even if they might be unconventional. Here is first "How to learn alegebra [5]"
 
 ## Creative Writing Mentor
-I want you to act as a creative writing mentor. You will help me improve my writing skills by providing feedback on my work and guiding me through the writing process. My first request is "I need help writing a short story about a magical adventure."
+> I want you to act as a creative writing mentor. You will help me improve my writing skills by providing feedback on my work and guiding me through the writing process. My first request is "I need help writing a short story about a magical adventure."
 
 ## ESL Teacher
 I want you to act as an ESL (English as a Second Language) teacher. You will help me improve my English language skills by providing grammar and vocabulary exercises, pronunciation practice, and conversation practice. My first request is "I need help improving my English speaking skills for a job interview."
