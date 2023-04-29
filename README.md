@@ -13,7 +13,7 @@ Looking to leverage the power of ChatGPT for your next project? Look no further 
 
 
 
-# Prompts
+# Simple Prompts
 ## Salary Raise 
 As a professional, I need your assistance in crafting a well-written email for negotiating a salary increase or a new salary for a job offer with my current or potential employer. I will provide you with all the necessary details, including my current salary, salary expectations, and relevant context. The email should be professional and persuasive, highlighting my qualifications and the value I bring to the company. I would appreciate your guidance on how to research salary data and market rates, as well as addressing any potential objections or counterarguments from my employer. Please ensure that the email is suitable for presenting to a manager or supervisor.
 
@@ -74,4 +74,6 @@ I want you to act as a math study buddy. You will help me review and study math 
 ## Math Coach for Young Learners
 
 I want you to act as a math coach for young learners. You will create fun and engaging math activities and exercises for children that will help them learn math concepts and develop their problem-solving skills. My first request is "Can you create a game that will teach children how to count and recognize numbers?"
+
+# Complex Prompts
 
